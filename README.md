@@ -4,7 +4,7 @@
 ![PyQt5](https://img.shields.io/badge/GUI-PyQt5-green.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-**Scientific ImgToVideo Converter** 是一个轻量级、无需安装的桌面应用程序，专为科研人员和工程师设计。它能够将医学图像 Stack（如 TIFF 多页文件）或图像序列文件夹（如 PNG/JPG 序列）快速转换为高质量的视频文件（MP4/AVI）。
+**ImgToVideo** 是一个轻量级、无需安装的桌面应用程序，专为科研人员和工程师设计。它能够将医学图像 Stack（如 TIFF 多页文件）或图像序列文件夹（如 PNG/JPG 序列）快速转换为高质量的视频文件（MP4/AVI）。
 
 该工具基于 Python (PyQt5) 开发，集成了 `imageio` (FFMPEG) 和 `OpenCV` 两种视频生成引擎，支持内存优化模式，可处理大规模数据集。
 
@@ -49,6 +49,6 @@
 ### 1. 克隆仓库
 
 ```bash
-git clone [https://github.com/你的用户名/ImgToVideo-Tool.git](https://github.com/你的用户名/ImgToVideo-Tool.git)
+git clone [https://github.com/你的用户名/ImgToVideo.git](https://github.com/你的用户名/ImgToVideo.git)
 cd ImgToVideo-Tool
 ```
