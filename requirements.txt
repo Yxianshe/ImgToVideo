@@ -1,0 +1,8 @@
+PyQt5
+scikit-image
+opencv-python
+imageio
+pyinstaller
+natsort
+qdarkstyle
+imageio-ffmpeg
