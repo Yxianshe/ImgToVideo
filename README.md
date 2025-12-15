@@ -9,6 +9,7 @@
 该工具基于 Python (PyQt5) 开发，集成了 `imageio` (FFMPEG) 和 `OpenCV` 两种视频生成引擎，支持内存优化模式，可处理大规模数据集。
 
 ---
+<img width="1188" height="741" alt="image" src="https://github.com/user-attachments/assets/900a02c4-ddf9-4934-b1e1-cbc5c85de416" />
 
 ## ✨ 主要功能
 
